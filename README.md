@@ -97,4 +97,5 @@ kmaSGj362OnCCNAAAACWRhcmVARGFyZQE=
 
 - I tested a few of the users randomly, and ensure that I was able to connect to the server using the **private key and the public key**.
 
+[Onboarding Users to Server.zip](https://github.com/eyolegoo/AUX-PROJECT-1/files/10483827/Onboarding.Users.to.Server.zip)
 
